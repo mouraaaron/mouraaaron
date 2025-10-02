@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="Assets/retrato_git.png" alt="Hacker working in a dark room" width="400px" />
+  <img src="Captura de tela de 2025-10-02 10-56-16.png" alt="Hacker working in a dark room" width="400px" />
 </div>
 
 
